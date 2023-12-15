@@ -8,7 +8,10 @@ Welcome to the LinkedIn App Backend Development project! This repository contain
 - __JAVA__
   
           Java as the Backend Language:
-  The LinkedIn app backend is built using Java, leveraging its robust and scalable features to handle user authentication, profile management, and networking functionalities.The use of Java in the backend ensures an expressive and maintainable codebase, allowing for efficient development, easy collaboration, and seamless integration of additional features in the LinkedIn app.
+         The LinkedIn app backend is built using Java, leveraging its robust and scalable features to handle user authentication, 
+        profile 
+       management, and networking functionalities.The use of Java in the backend ensures an expressive and maintainable codebase, 
+       allowing for efficient development, easy collaboration, and seamless integration of additional features in the LinkedIn app.
   
 -  __MYSQL__
   
