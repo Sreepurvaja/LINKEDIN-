@@ -19,3 +19,19 @@ Welcome to the LinkedIn App Backend Development project! This repository contain
   connections, and other essential functionalities of the LinkedIn app backend.Leveraging the scalability and efficiency of MySQL, the 
   backend seamlessly manages user data, providing a robust foundation for the LinkedIn app to scale with growing user interactions and 
   networking activities.
+
+## INSTALLATION 
+
+# INSTALL JAVA
+- __Download Java:__
+  Visit the official Oracle website or AdoptOpenJDK (an open-source distribution of the JDK).
+  Download the latest version of the Java Development Kit (JDK).
+
+- __Run the Installer:__
+Execute the downloaded installer.
+Follow the on-screen instructions to complete the installation.
+
+- __Set Environment Variables (Optional but Recommended):__
+  After installation, you may need to set the 'JAVA_HOME' environment variable.
+  Add the 'bin' directory of the JDK to the system's 'PATH' variable.
+  
