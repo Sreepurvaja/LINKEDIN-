@@ -25,7 +25,7 @@ Welcome to the LinkedIn App Backend Development project! This repository contain
 ## Install Java
 - __Download Java:__
   
-  Visit the official Oracle website or AdoptOpenJDK (an open-source distribution of the JDK).
+  Visit the official [Oracle website](https://www.oracle.com/java/technologies/downloads/) or AdoptOpenJDK (an open-source distribution of the JDK).
   Download the latest version of the Java Development Kit (JDK).
 
 - __Run the Installer:__
