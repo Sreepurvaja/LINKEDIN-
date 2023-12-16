@@ -47,7 +47,7 @@ Welcome to the LinkedIn App Backend Development project! This repository contain
 ## Install Mysql
 - __Download MySQL Installer:__
 
-  Visit the official MySQL website.
+  Visit the official [MySQL website](https://www.mysql.com/downloads/).
 
  - __Run the Installer:__
 
