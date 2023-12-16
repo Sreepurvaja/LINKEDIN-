@@ -30,15 +30,15 @@ Welcome to the LinkedIn App Backend Development project! This repository contain
 
 - __Run the Installer:__
 
-Execute the downloaded installer.
-Follow the on-screen instructions to complete the installation.
+  Execute the downloaded installer.
+  Follow the on-screen instructions to complete the installation.
 
 - __Set Environment Variables (Optional but Recommended):__
   
   After installation, you may need to set the 'JAVA_HOME' environment variable.
   Add the 'bin' directory of the JDK to the system's 'PATH' variable.
 
-  - __. Check Java Version:__
+  - __Check Java Version:__
     
     Run the following command to check the installed Java version:
     
