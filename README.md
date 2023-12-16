@@ -72,6 +72,48 @@ Welcome to the LinkedIn App Backend Development project! This repository contain
 - (i)   Search Profile
 - (ii)  view Profile
 - (iii) Create User Account
+
+### Signin User
+
+- (i)  First Name
+- (ii) Last Name
+- (iii) Email
+- (iv)  Password
+- (v)  Profile Picture
+- (vi) Date Joined
+
+### Professtional Experiences
+- (i) Position
+- (ii) Company
+- (iii) Start Date
+- (iv) End Date
+
+### Education 
+- (i)School
+- (ii) Degree
+- (iii) Field of Study
+- (iv) Graduation Date
+
+### Skill and Endorsements
+- (i) Skill Name
+- (ii) Endorsement Date
+
+### Post and Feed 
+- (i) Content
+- (ii) Post Date
+- (iii) Comments
+- (iv)  Comment Date
+- (v)  Like Count
+
+ ### Job Postings and Applications
+ - (i) Company Name
+ - (ii) Position
+ - (iii) Description
+ - (iv) Posting Date
+ - (v) Application Date
+ - (vi) Status of Application
+  
+  
             
    
 
