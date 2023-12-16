@@ -44,3 +44,27 @@ Welcome to the LinkedIn App Backend Development project! This repository contain
     
             java -version
 
+## Install Mysql
+- __Download MySQL Installer:__
+
+  Visit the official MySQL website.
+
+ - __Run the Installer:__
+
+   Execute the downloaded installer.Follow the on-screen instructions to install MySQL.During installation, you will be prompted to configure the MySQL server, set a root password, and choose components to install.
+
+ - __Complete the Installation:__
+
+   Finish the installation process, and the MySQL server should start automatically.
+
+ - __Verify MySQL Installation:__
+
+   Open a terminal or command prompt.Connect to MySQL using the following command
+
+          mysql -u root -p
+
+You will be prompted to enter the root password.Once connected, you should see the MySQL prompt, indicating a successful installation.
+
+            
+   
+
