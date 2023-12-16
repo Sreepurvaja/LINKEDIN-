@@ -22,7 +22,7 @@ Welcome to the LinkedIn App Backend Development project! This repository contain
 
 ## INSTALLATION 
 
-## Install java
+## Install Java
 - __Download Java:__
   
   Visit the official Oracle website or AdoptOpenJDK (an open-source distribution of the JDK).
@@ -63,8 +63,15 @@ Welcome to the LinkedIn App Backend Development project! This repository contain
 
           mysql -u root -p
 
-You will be prompted to enter the root password.Once connected, you should see the MySQL prompt, indicating a successful installation.
+   You will be prompted to enter the root password.Once connected, you should see the MySQL prompt, indicating a successful installation.
 
+## KEY FEATURES
+
+### Public User
+
+- (i)   Search Profile
+- (ii)  view Profile
+- (iii) Create User Account
             
    
 
