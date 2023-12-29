@@ -94,7 +94,7 @@ Welcome to the LinkedIn App Backend Development project! This repository contain
 - (iii) Field of Study
 - (iv) Graduation Date
 
-### Skill and Endorsements
+### Skills and Endorsements
 - (i) Skill Name
 - (ii) Endorsement Date
 
