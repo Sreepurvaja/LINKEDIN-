@@ -110,8 +110,8 @@ Welcome to the LinkedIn App Backend Development project! This repository contain
  - (iii) Two Factor Authentication
 
 ### Content Publishing
--(i) Post Updates
--(ii) Engagement Matrics
+- (i) Post Updates
+- (ii) Engagement Matrics
 - (iii) Saved Articles
 - (iv) Content Recommendations
    
